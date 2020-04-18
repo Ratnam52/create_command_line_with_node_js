@@ -1,4 +1,4 @@
-# create_command_line_with_node_js
+# create command line with node js
 
 Hi, In this session we going to create our own command line with Node.js.
 
